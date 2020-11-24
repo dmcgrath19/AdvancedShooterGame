@@ -1,5 +1,6 @@
 /*
- recordings, oscillators and effects 
+ extra barriers, increased lives,
+ recordings, oscillators and effects implementented
 */
 
 import processing.sound.*;
